@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+.timerClock {
+  display: flex;
+  justify-content: center;
+  margin-top: 4.3em;
+  font-size: 70px;
+  background-color: rgb(62, 39, 104);
+  width: 6.3em;
+  height: 1.6em;
+  border-radius: 20px;
+  padding-top: 30px;
+  color: rgb(207, 220, 231);
+  position: relative;
+  box-shadow: 15px 7px 60px rgb(179, 12, 156);
+}
